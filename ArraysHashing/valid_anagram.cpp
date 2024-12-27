@@ -1,5 +1,4 @@
-#include <stdc++.h>
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
 
 class Solution {
@@ -20,7 +19,7 @@ public:
             cout << t_pair.first << " " << t_pair.second << endl;
 
             if (t_pair == t_map.end() || t_pair->second != t_pair.second) {
-                return false;  
+                return false;
             }
         }
 
