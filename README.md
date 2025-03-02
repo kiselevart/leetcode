@@ -1,1 +1,2 @@
-all my leetcode answers, organized into the subfolders used by neetcode
+## Leetcode Answers
+following the neetcode chart: https://neetcode.io/
